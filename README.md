@@ -2,4 +2,4 @@
 Simple image upload and generate thumbnails with PHP.
 
 Demo\
-https://fachririyanto.com/snippets/php-upload-and-generate-thumbnail/
+https://fachririyanto.com/sandbox/php-upload-and-generate-thumbnail/
